@@ -2,7 +2,7 @@
 import math
 
 """
-    Sujet d’étude 4 : fibre optique
+    Sujet d’étude 3 : fibre optique
 """
 
 log10 = math.log10
