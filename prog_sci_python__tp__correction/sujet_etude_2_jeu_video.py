@@ -1,6 +1,6 @@
 
 """
-    Sujet d’étude 3 : tournoi de jeu vidéo
+    Sujet d’étude 2 : tournoi de jeu vidéo
 """
 
 # stockage des scores des joueurs d'une equipe
